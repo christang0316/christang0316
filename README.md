@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tang, You-Zeng</h1>
 <h3 align="center">A passionate college student from Taiwan</h3>
 
-- 📫 How to reach me **christang426859@gmail.com**
+- 📫 How to **[reach me](https://linktr.ee/christang)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
